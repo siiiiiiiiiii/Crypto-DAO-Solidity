@@ -24,14 +24,6 @@ This project includes dynamic fee distribution, token locking, batch airdrops, a
 - 📈 **Execution-Ready & Testnet Deployed**:  
   Contracts have been successfully deployed and tested on the Sepolia Ethereum testnet, using Remix + MetaMask.
 
-### 📊 Data & Outcome
-
-- ✅ Over `10+` integrated smart contract functions across `ERC-20`, `lock logic`, `DAO governance`, and `airdrop`.
-- ✅ Fully written in low-level Solidity (no frameworks like Hardhat or Foundry), demonstrating in-depth manual control.
-- ✅ Codebase audited manually for overflow, access control, and event logging logic.
-- ✅ Real voting tested using simulated accounts with varying balances.
-- ✅ Verified on testnet — proposals were created, voted, and executed without errors.
-
 ---
 
 📄 [📂 Full PDF Report](https://drive.google.com/file/d/1ZEI7BnvRLfd9WSh-Igyba2ojisQhTBeQ/view?usp=sharing)  

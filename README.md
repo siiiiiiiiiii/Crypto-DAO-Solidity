@@ -1,9 +1,9 @@
-🚀 SiuToken — Smart Contract on Sepolia Testnet
-Developed SiuToken, a custom cryptocurrency deployed on the Sepolia testnet, featuring:
+### 🚀 SiuToken (Cryptocurrency on Sepolia Testnet)
 
-🔒 Token Locking
-🎁 Airdrop Mechanism
-📉 Dynamic Transaction Fees
-🗳️ DAO Voting System
-Smart contract was built and thoroughly tested using Remix IDE and MetaMask, showcasing hands-on experience in Solidity and decentralized application (dApp) development.
+Developed the **SiuToken** on the **Sepolia testnet**, featuring:
+- 🔒 **Token Locking**
+- 🎁 **Airdrops**
+- 💸 **Dynamic Transaction Fees**
+- 🗳️ **DAO Voting System**
 
+Tested thoroughly using **Remix IDE** and **MetaMask**, showcasing full-cycle **smart contract development** experience.

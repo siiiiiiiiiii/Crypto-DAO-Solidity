@@ -35,4 +35,4 @@ This project includes dynamic fee distribution, token locking, batch airdrops, a
 
 > This is not just a token — it’s a fully working **DAO demo** for real-world decentralized decision making, built from scratch by a student in FinTech.
 
-![deploy](deploy.png)
+<img src="./deploy.png" alt="deploy" width="400"/>

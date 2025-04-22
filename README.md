@@ -34,3 +34,5 @@ This project includes dynamic fee distribution, token locking, batch airdrops, a
 🔗 Smart Contract Source Code can see in GitHub repository main root (Sol)
 
 > This is not just a token — it’s a fully working **DAO demo** for real-world decentralized decision making, built from scratch by a student in FinTech.
+
+![deploy](deploy.png)

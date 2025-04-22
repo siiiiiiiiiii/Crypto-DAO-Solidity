@@ -2,7 +2,7 @@
 
 <img src="./SiuToken.png" alt="SiuToken" width="400"/>
 
-![SiuToken1](SiuToken1.png)
+<img src="SiuToken1.png" alt="SiuToken1" width="700"/>
 
 A full-featured ERC-20 token and DAO system developed entirely in Solidity.  
 This project includes dynamic fee distribution, token locking, batch airdrops, and on-chain governance with weighted voting.

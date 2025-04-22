@@ -1,5 +1,7 @@
 ## 🔒 SiuToken & DAO Governance Smart Contract
 
+![SiuToken](./SiuToken.png)
+
 A full-featured ERC-20 token and DAO system developed entirely in Solidity.  
 This project includes dynamic fee distribution, token locking, batch airdrops, and on-chain governance with weighted voting.
 
